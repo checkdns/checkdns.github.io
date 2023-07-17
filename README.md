@@ -1,3 +1,4 @@
+1
 # <a href="https://checkdns.pro">Check DNS</a>
 # <a href="https://checkdns.pro">DNS Checker</a>
 
